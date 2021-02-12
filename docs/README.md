@@ -4,4 +4,4 @@
 
 ＃ 青野瑞樹のポートフォリオLPです。(2021.2.12更新)
 
-＃ https://MizukiAono.github.io/index.html
+＃ https://MizukiAono.github.io/Portfolio_LP/index.html
